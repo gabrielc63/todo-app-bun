@@ -6,7 +6,7 @@ module.exports = {
       fontFamily: {
         anton: ["Anton", "sans-serif"],
         display: ["Dancing Script", "cursive"],
-        inter: "'Inter', serif",
+        inter: "'Inter', sans-serif",
       },
     },
   },
